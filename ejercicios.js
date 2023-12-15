@@ -15,3 +15,4 @@ console.log("Respuesta 1.a.2 : " + ejerciciob);
 
 const ejercicioc=!sueldoInferior2000;
 console.log("Respuesta 1.a.3 : " + ejercicioc);
+
